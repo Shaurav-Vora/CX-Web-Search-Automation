@@ -256,7 +256,7 @@ screen_height = root.winfo_screenheight()
 
 # Calculate the window's width and height
 window_width = 550
-window_height = 750
+window_height = 800
 
 # Calculate the x and y positions to center the window
 x = (screen_width // 2) - (window_width // 2)
@@ -337,6 +337,9 @@ checkbox_headless.grid(row=15, column=1, pady=10, padx=10, sticky='nsew')
 
 button_generate = tk.Button(root,width=12 ,text="Generate Schedule", font=("Arial", 12, "bold"), bg="lightgreen", fg="black",command=generateSchedule)
 button_generate.grid(row=16, column=1, pady=10, padx=10, sticky='nsew')
+
+label_copyright = tk.Label(root, text="©️2024 - Developed by Shaurav Vora", font=("Arial", 10), fg="grey")
+label_copyright.grid(row=17, column=0, columnspan=3, pady=10, padx=10, sticky='ew')
 
 # Run the main loop
 root.mainloop()

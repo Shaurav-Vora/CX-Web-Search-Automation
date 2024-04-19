@@ -1,5 +1,4 @@
-('C:\\Users\\shaur\\OneDrive\\Desktop\\CX Course Search '
- 'Automation\\build\\main\\PYZ-00.pyz',
+('C:\\Users\\shaur\\OneDrive\\Desktop\\Git\\CX-Web-Search-Automation\\build\\main\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\shaur\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
