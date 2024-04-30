@@ -1,4 +1,15 @@
-# CX web search automation
+# CX web search automation  
+## Table of contents
+[About the program](#about-the-program)  
+
+[Installing the program](#installing-the-program)  
+
+[Locate the program](#locate-the-program)  
+
+[Using the program](#using-the-program)  
+
+[Additional points to note](#additional-points-to-note)
+
 ## About the program
 This program is exclusively designed for **USIU-A** students to simplify course searches on the CX portal. By automating search, data scraping, and Excel sheet generation, it streamlines the course selection process. Key features include automated searches, course data extraction, excel sheet generation, and support for main filters such as Semester and faculty members.
 ## Installing the program
