@@ -8,7 +8,7 @@ There are 2 ways to install it:
 Use the following command on your local terminal and wait for completion:
 >git clone https://github.com/Shaurav-Vora/CX-Web-Search-Automation.git
 
-*Note: You need to [install git](https://git-scm.com/downloads) {:target="_blank"} to use this method.* 
+*Note: You need to [install git](https://git-scm.com/downloads) to use this method.* 
 
 **2. Zip file**  
 Under the **<> code** dropdown, choose "Download zip"
