@@ -14,7 +14,7 @@ Use the following command on your local terminal and wait for completion:
 Under the **<> code** dropdown, choose "Download zip"
 
 ## Locate the program
-The program is located in the "~\CX-Web-Search-Automation\dist\main\main.exe".
+The program is located in the "~\CX-Web-Search-Automation\dist\main\main.exe".  
 A CX.ico image is provided to customize the icon for the program but can only be applied to shortcuts of the program. Once a shortcut is created:
 1. Select the shortcut and press alt+enter or right-click and select properties.
 2. Choose "change icon" and browse the CX.ico. *You may also make your own icon and use that*.
@@ -33,6 +33,6 @@ A CX.ico image is provided to customize the icon for the program but can only be
 ## Additional points to note
 1. The speed of the program will depend on the speed of CX portal.
 2. The program also opens a **terminal** when launched. Do **NOT** close this as it will help find errors for reporting and is also needed to use the program.
-3. Not all errors have been captured in the program therefore incidents such as *server timeouts* may **break** the program. In such cases, **disable headless mode** and monitor the flow until the problem is found. If you wish to report it, take **screenshots** to attach and copy paste any code in the **terminal** and email it to me at shauravvora@gmail.com with the subject "CX bug".
+3. Not all errors have been captured in the program therefore incidents such as *server timeouts* may **break** the program. In such cases, **disable headless mode** and monitor the flow until the problem is found. If you wish to report it, take **screenshots** to attach and copy paste any code in the **terminal** and email it to me at shauravvora@gmail.com with the subject "CX bug".  
 
 Hope this program is helpful!!!
