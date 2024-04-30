@@ -14,3 +14,9 @@ Under the **<> code** dropdown, choose "Download zip"
 
 ## Locate the program
 The program is located in the "~\CX-Web-Search-Automation\dist\main\main.exe".
+A CX.ico image is provided to customize the icon for the program but can only be applied to shortcuts of the program. Once a shortcut is created:
+1. Select the shortcut and press alt+enter or right-click and select properties.
+2. Choose "change icon" and browse the CX.ico. *You may also make your own icon and use that*.
+
+## Using the program
+
