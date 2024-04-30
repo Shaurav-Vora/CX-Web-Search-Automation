@@ -1,14 +1,10 @@
 # CX web search automation  
 ## Table of contents
-[About the program](#about-the-program)  
-
-[Installing the program](#installing-the-program)  
-
-[Locate the program](#locate-the-program)  
-
-[Using the program](#using-the-program)  
-
-[Additional points to note](#additional-points-to-note)
+-[About the program](#about-the-program)
+-[Installing the program](#installing-the-program)
+-[Locate the program](#locate-the-program)
+-[Using the program](#using-the-program)
+-[Additional points to note](#additional-points-to-note)
 
 <a id="about-the-program"></a>
 ## About the program
