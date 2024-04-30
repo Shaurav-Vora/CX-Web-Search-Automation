@@ -12,7 +12,9 @@
 
 <a id="about-the-program"></a>
 ## About the program
-This program is exclusively designed for **USIU-A** students to simplify course searches on the CX portal. By automating search, data scraping, and Excel sheet generation, it streamlines the course selection process. Key features include automated searches, course data extraction, excel sheet generation, and support for main filters such as Semester and faculty members.
+This program is exclusively designed for **USIU-A** students to simplify course searches on the CX portal. By automating search, data scraping, and Excel sheet generation, it streamlines the course selection process. Key features include automated searches, course data extraction, excel sheet generation, and support for main filters such as Semester and faculty members.  
+
+<a id="installing-the-program"></a>
 ## Installing the program
 There are 2 ways to install it:
 
@@ -25,6 +27,7 @@ Use the following command on your local terminal and wait for completion:
 **2. Zip file**  
 Under the **<> code** dropdown, choose "Download zip"
 
+<a id="locate-the-program"></a>
 ## Locate the program
 The program is located in the "~\CX-Web-Search-Automation\dist\main\main.exe".  
 
@@ -32,6 +35,7 @@ A CX.ico image is provided to customize the icon for the program but can only be
 1. Select the shortcut and press alt+enter or right-click and select properties.
 2. Choose "change icon" and browse the CX.ico. *You may also make your own icon and use that*.
 
+<a id="using-the-program"></a>
 ## Using the program
 ![Screenshot of program](/Images/program_shot.png)
 
@@ -42,7 +46,7 @@ A CX.ico image is provided to customize the icon for the program but can only be
 |3           | Headless mode| Use this mode if you dont want the program to open the browser. This mode will execute in the background so you can continue your other work.|
 |4           | Generate schedule| Click here when you are ready and an excel sheet will generate with data using the filters used|
 
-
+<a id="additional-points-to-note"></a>
 ## Additional points to note
 1. The speed of the program will depend on the speed of CX portal.
 2. The program also opens a **terminal** when launched. Do **NOT** close this as it will help find errors for reporting and is also needed to use the program.
