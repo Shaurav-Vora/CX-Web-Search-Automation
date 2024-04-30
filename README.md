@@ -2,13 +2,15 @@
 ## About the program
 This program is exclusively designed for **USIU-A** students to simplify course searches on the CX portal. By automating search, data scraping, and Excel sheet generation, it streamlines the course selection process. Key features include automated searches, course data extraction, excel sheet generation, and support for main filters such as Semester and faculty members.
 ## Installing the program
-1. Using git clone
+There are 2 ways to install it:
+
+**1. Using git clone**  
 Use the following command on your local terminal and wait for completion:
 >git clone https://github.com/Shaurav-Vora/CX-Web-Search-Automation.git
 
-*Note: You need [git](https://git-scm.com/downloads) installed in order to use this method.* 
+*Note: You need to [install git](https://git-scm.com/downloads) {:target="_blank"} to use this method.* 
 
-2. Zip file
+**2. Zip file**  
 Under the **<> code** dropdown, choose "Download zip"
 
 ## Locate the program
