@@ -21,7 +21,7 @@ Use the following command on your local terminal and wait for completion:
 *Note: You need to [install git](https://git-scm.com/downloads) to use this method.* 
 
 **2. Zip file**  
-Under the **<> code** dropdown, choose "Download zip"
+Under the green button **<> code**, choose "Download zip" from the dropdown.
 
 <a id="locate-the-program"></a>
 ## Locate the program
