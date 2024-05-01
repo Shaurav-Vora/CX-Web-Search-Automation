@@ -21,7 +21,7 @@ Use the following command on your local terminal and wait for completion:
 *Note: You need to [install git](https://git-scm.com/downloads) to use this method.* 
 
 **2. Zip file**  
-Under the green button <code style="color : green">**<> code**</code>
+Under the Green} button <code style="color: green;">**<> code**</code> at the top of this page
 , choose "Download zip" from the dropdown or [click here](https://github.com/Shaurav-Vora/CX-Web-Search-Automation/archive/refs/heads/main.zip) to start the download directly.
 
 <a id="locate-the-program"></a>
@@ -45,7 +45,8 @@ A CX.ico image is provided to customize the icon for the program but can only be
 
 <a id="additional-points-to-note"></a>
 ## Additional points to note
-1. The speed of the program will depend on the speed of CX portal.
-2. The program also opens a **terminal** when launched. Do **NOT** close this as it will help find errors for reporting and is also needed to use the program.
-3. If you want to move the program to another folder, move the main.exe and chromedriver together. Excel sheet is not required but will create a new one wherever the files are moved to.
-4. Not all errors have been captured in the program therefore incidents such as *server timeouts* may **break** the program. In such cases, **disable headless mode** and monitor the flow until the problem is found. If you wish to report it, take **screenshots** to attach and copy paste any code in the **terminal** and email it to me at shauravvora@gmail.com with the subject "CX bug".  
+> [!NOTE]  
+> 1. The speed of the program will depend on the speed of CX portal.  
+> 2. The program also opens a **terminal** when launched. Do **NOT** close this as it will help find errors for reporting and is also needed to use the program.  
+> 3. If you want to move the program to another folder, move the main.exe and chromedriver together. Excel sheet is not required but will create a new one wherever the files are moved to.  
+> 4. Not all errors have been captured in the program therefore incidents such as *server timeouts* may **break** the program. In such cases, **disable headless mode** and monitor the flow until the problem is found. If you wish to report it, take **screenshots** to attach and copy paste any code in the **terminal** and email it to me at shauravvora@gmail.com with the subject "CX bug".  
