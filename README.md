@@ -22,9 +22,10 @@ Use the following command on your local terminal and wait for completion:
 
 **2. Zip file**  
 Under the Green} button <code style="color: green;">**<> code**</code> at the top of this page
-, choose "Download zip" from the dropdown or download directly below.
+, choose "Download zip" from the dropdown or download directly below.  
 
-[![Download zip file](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/download.svg)](https://github.com/Shaurav-Vora/CX-Web-Search-Automation/archive/refs/heads/main.zip)
+[<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/download.svg" alt="Download CX web automation" height="32" />](https://github.com/Shaurav-Vora/CX-Web-Search-Automation/archive/refs/heads/main.zip)
+
 
 <a id="locate-the-program"></a>
 ## Locate the program
